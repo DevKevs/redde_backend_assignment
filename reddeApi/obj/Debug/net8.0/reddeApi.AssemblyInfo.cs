@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("reddeApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dff5a80b41b2ac4db650943e604855c751e13d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("reddeApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("reddeApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

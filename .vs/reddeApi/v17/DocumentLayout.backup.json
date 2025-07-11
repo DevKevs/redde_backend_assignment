@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Kevin Backup\\Projects\\reddeApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93F9D43A-9F4D-46E0-AD29-E89DFA42715F}|reddeApi\\reddeApi.csproj|d:\\kevin backup\\projects\\reddeapi\\reddeapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93F9D43A-9F4D-46E0-AD29-E89DFA42715F}|reddeApi\\reddeApi.csproj|solutionrelative:reddeapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93F9D43A-9F4D-46E0-AD29-E89DFA42715F}|reddeApi\\reddeApi.csproj|d:\\kevin backup\\projects\\reddeapi\\reddeapi\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93F9D43A-9F4D-46E0-AD29-E89DFA42715F}|reddeApi\\reddeApi.csproj|solutionrelative:reddeapi\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93F9D43A-9F4D-46E0-AD29-E89DFA42715F}|reddeApi\\reddeApi.csproj|d:\\kevin backup\\projects\\reddeapi\\reddeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93F9D43A-9F4D-46E0-AD29-E89DFA42715F}|reddeApi\\reddeApi.csproj|solutionrelative:reddeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F9D43A-9F4D-46E0-AD29-E89DFA42715F}|reddeApi\\reddeApi.csproj|d:\\kevin backup\\projects\\reddeapi\\reddeapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F9D43A-9F4D-46E0-AD29-E89DFA42715F}|reddeApi\\reddeApi.csproj|solutionrelative:reddeapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,46 +17,33 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 329,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\Kevin Backup\\Projects\\reddeApi\\reddeApi\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "reddeApi\\Controllers\\CustomerController.cs",
               "ToolTip": "D:\\Kevin Backup\\Projects\\reddeApi\\reddeApi\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "reddeApi\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T20:00:49.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T21:01:52.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Kevin Backup\\Projects\\reddeApi\\reddeApi\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "reddeApi\\Entities\\Customer.cs",
-              "ToolTip": "D:\\Kevin Backup\\Projects\\reddeApi\\reddeApi\\Entities\\Customer.cs",
-              "RelativeToolTip": "reddeApi\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T20:00:10.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Kevin Backup\\Projects\\reddeApi\\reddeApi\\Program.cs",
               "RelativeDocumentMoniker": "reddeApi\\Program.cs",
               "ToolTip": "D:\\Kevin Backup\\Projects\\reddeApi\\reddeApi\\Program.cs",
               "RelativeToolTip": "reddeApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T18:43:03.622Z"
+              "WhenOpened": "2025-07-11T20:10:25.317Z",
+              "EditorCaption": ""
             }
           ]
         }

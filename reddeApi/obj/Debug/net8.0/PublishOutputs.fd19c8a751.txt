@@ -1,0 +1,17 @@
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\reddeApi.exe
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\reddeApi.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\reddeApi.deps.json
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\reddeApi.runtimeconfig.json
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\reddeApi.pdb
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\DnsClient.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\MongoDB.Bson.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\MongoDB.Driver.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\SharpCompress.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\Snappier.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\PubTmp\Out\ZstdSharp.dll

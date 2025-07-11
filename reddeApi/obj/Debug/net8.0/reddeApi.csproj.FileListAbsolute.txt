@@ -76,3 +76,4 @@ D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\refint\reddeApi.dll
 D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\reddeApi.pdb
 D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\reddeApi.genruntimeconfig.cache
 D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\ref\reddeApi.dll
+D:\Kevin Backup\Projects\reddeApi\reddeApi\obj\Debug\net8.0\reddeApi.sourcelink.json
